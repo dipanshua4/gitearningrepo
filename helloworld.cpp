@@ -1,8 +1,6 @@
-#include<stdio.h>
+#include<iostream>
 using namespace std;
-int main(){
-
-printf("hello world");
-printf("\nin dev branch");
-return 0;
+int main()
+{
+  cout<<"Hello World";
 }
